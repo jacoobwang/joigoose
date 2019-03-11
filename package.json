@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "hoek": "^5.0.3",
-    "joi": "^13.4.0"
+    "joi": "10.6.0"
   },
   "devDependencies": {
     "code": "^5.1.2",
